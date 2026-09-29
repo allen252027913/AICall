@@ -1,0 +1,738 @@
+{
+  "buildFiles": [
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/litert_cc_sdk/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/CMake/AbseilDll.cmake",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/CMake/AbseilHelpers.cmake",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/algorithm/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/base/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/cleanup/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/container/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/copts/AbseilConfigureCopts.cmake",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/copts/GENERATED_AbseilCopts.cmake",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/crc/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/debugging/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/flags/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/functional/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/hash/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/log/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/memory/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/meta/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/numeric/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/profiling/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/random/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/status/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/strings/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/synchronization/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/time/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/types/CMakeLists.txt",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/third_party/abseil-cpp/absl/utility/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Applications/DevEco-Studio.app/Contents/sdk/default/openharmony/native/build-tools/cmake/bin/ninja",
+      "-C",
+      "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Applications/DevEco-Studio.app/Contents/sdk/default/openharmony/native/build-tools/cmake/bin/ninja",
+    "-C",
+    "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "NightlySubmit::@aa614714706b1c9b6a67": {
+      "artifactName": "NightlySubmit",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_time_zone::@fd94da96f06d6628b0bc": {
+      "artifactName": "absl_time_zone",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/time/libabsl_time_zone.a",
+      "runtimeFiles": []
+    },
+    "absl_log_sink::@8d49a56ccdcdaaddccaf": {
+      "artifactName": "absl_log_sink",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/log/libabsl_log_sink.a",
+      "runtimeFiles": []
+    },
+    "NightlyMemCheck::@aa614714706b1c9b6a67": {
+      "artifactName": "NightlyMemCheck",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_periodic_sampler::@659fdaaf291b67f054e9": {
+      "artifactName": "absl_periodic_sampler",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/profiling/libabsl_periodic_sampler.a",
+      "runtimeFiles": []
+    },
+    "Continuous::@aa614714706b1c9b6a67": {
+      "artifactName": "Continuous",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_leak_check::@acb0724825ae4703b708": {
+      "artifactName": "absl_leak_check",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/debugging/libabsl_leak_check.a",
+      "runtimeFiles": []
+    },
+    "absl_random_internal_platform::@c9688ff7f848af581c2b": {
+      "artifactName": "absl_random_internal_platform",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/random/libabsl_random_internal_platform.a",
+      "runtimeFiles": []
+    },
+    "absl_examine_stack::@acb0724825ae4703b708": {
+      "artifactName": "absl_examine_stack",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/debugging/libabsl_examine_stack.a",
+      "runtimeFiles": []
+    },
+    "ContinuousSubmit::@aa614714706b1c9b6a67": {
+      "artifactName": "ContinuousSubmit",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_flags_parse::@509de57c6a5d1f155201": {
+      "artifactName": "absl_flags_parse",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/flags/libabsl_flags_parse.a",
+      "runtimeFiles": []
+    },
+    "absl_graphcycles_internal::@92857049cdb464c9c3d6": {
+      "artifactName": "absl_graphcycles_internal",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/synchronization/libabsl_graphcycles_internal.a",
+      "runtimeFiles": []
+    },
+    "NightlyConfigure::@aa614714706b1c9b6a67": {
+      "artifactName": "NightlyConfigure",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_log_initialize::@8d49a56ccdcdaaddccaf": {
+      "artifactName": "absl_log_initialize",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/log/libabsl_log_initialize.a",
+      "runtimeFiles": []
+    },
+    "absl_random_seed_sequences::@c9688ff7f848af581c2b": {
+      "artifactName": "absl_random_seed_sequences",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/random/libabsl_random_seed_sequences.a",
+      "runtimeFiles": []
+    },
+    "NightlyCoverage::@aa614714706b1c9b6a67": {
+      "artifactName": "NightlyCoverage",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_cordz_handle::@cb7a1fd89edd0c86251a": {
+      "artifactName": "absl_cordz_handle",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/strings/libabsl_cordz_handle.a",
+      "runtimeFiles": []
+    },
+    "absl_cordz_info::@cb7a1fd89edd0c86251a": {
+      "artifactName": "absl_cordz_info",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/strings/libabsl_cordz_info.a",
+      "runtimeFiles": []
+    },
+    "absl_random_internal_seed_material::@c9688ff7f848af581c2b": {
+      "artifactName": "absl_random_internal_seed_material",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/random/libabsl_random_internal_seed_material.a",
+      "runtimeFiles": []
+    },
+    "absl_flags_config::@509de57c6a5d1f155201": {
+      "artifactName": "absl_flags_config",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/flags/libabsl_flags_config.a",
+      "runtimeFiles": []
+    },
+    "absl_crc_cpu_detect::@971c8609f7402d63b90a": {
+      "artifactName": "absl_crc_cpu_detect",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/crc/libabsl_crc_cpu_detect.a",
+      "runtimeFiles": []
+    },
+    "ContinuousConfigure::@aa614714706b1c9b6a67": {
+      "artifactName": "ContinuousConfigure",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_int128::@0265dde0a14278cad11e": {
+      "artifactName": "absl_int128",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/numeric/libabsl_int128.a",
+      "runtimeFiles": []
+    },
+    "ppocrv5_jni::@6890427a1f51a3e7e1df": {
+      "artifactName": "ppocrv5_jni",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/build/intermediates/cxx/Debug/6j6h6s3j/obj/arm64-v8a/libppocrv5_jni.so",
+      "runtimeFiles": [
+        "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/litert_cc_sdk/lib/arm64-v8a/libLiteRt.so",
+        "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/src/main/cpp/litert_cc_sdk/lib/arm64-v8a/libLiteRtOpenClAccelerator.so"
+      ]
+    },
+    "absl_raw_hash_set::@fce6d334468c5dcfb864": {
+      "artifactName": "absl_raw_hash_set",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/container/libabsl_raw_hash_set.a",
+      "runtimeFiles": []
+    },
+    "ContinuousMemCheck::@aa614714706b1c9b6a67": {
+      "artifactName": "ContinuousMemCheck",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_poison::@bcca1fbf62fd7584c184": {
+      "artifactName": "absl_poison",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/base/libabsl_poison.a",
+      "runtimeFiles": []
+    },
+    "ExperimentalStart::@aa614714706b1c9b6a67": {
+      "artifactName": "ExperimentalStart",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_time::@fd94da96f06d6628b0bc": {
+      "artifactName": "absl_time",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/time/libabsl_time.a",
+      "runtimeFiles": []
+    },
+    "absl_utf8_for_code_point::@acb0724825ae4703b708": {
+      "artifactName": "absl_utf8_for_code_point",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/debugging/libabsl_utf8_for_code_point.a",
+      "runtimeFiles": []
+    },
+    "ContinuousUpdate::@aa614714706b1c9b6a67": {
+      "artifactName": "ContinuousUpdate",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "ContinuousStart::@aa614714706b1c9b6a67": {
+      "artifactName": "ContinuousStart",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_log_internal_fnmatch::@8d49a56ccdcdaaddccaf": {
+      "artifactName": "absl_log_internal_fnmatch",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/log/libabsl_log_internal_fnmatch.a",
+      "runtimeFiles": []
+    },
+    "NightlyTest::@aa614714706b1c9b6a67": {
+      "artifactName": "NightlyTest",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_flags_internal::@509de57c6a5d1f155201": {
+      "artifactName": "absl_flags_internal",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/flags/libabsl_flags_internal.a",
+      "runtimeFiles": []
+    },
+    "absl_kernel_timeout_internal::@92857049cdb464c9c3d6": {
+      "artifactName": "absl_kernel_timeout_internal",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/synchronization/libabsl_kernel_timeout_internal.a",
+      "runtimeFiles": []
+    },
+    "absl_demangle_rust::@acb0724825ae4703b708": {
+      "artifactName": "absl_demangle_rust",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/debugging/libabsl_demangle_rust.a",
+      "runtimeFiles": []
+    },
+    "absl_flags_usage::@509de57c6a5d1f155201": {
+      "artifactName": "absl_flags_usage",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/flags/libabsl_flags_usage.a",
+      "runtimeFiles": []
+    },
+    "absl_strerror::@bcca1fbf62fd7584c184": {
+      "artifactName": "absl_strerror",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/base/libabsl_strerror.a",
+      "runtimeFiles": []
+    },
+    "absl_throw_delegate::@bcca1fbf62fd7584c184": {
+      "artifactName": "absl_throw_delegate",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/base/libabsl_throw_delegate.a",
+      "runtimeFiles": []
+    },
+    "absl_random_distributions::@c9688ff7f848af581c2b": {
+      "artifactName": "absl_random_distributions",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/random/libabsl_random_distributions.a",
+      "runtimeFiles": []
+    },
+    "absl_cord_internal::@cb7a1fd89edd0c86251a": {
+      "artifactName": "absl_cord_internal",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/strings/libabsl_cord_internal.a",
+      "runtimeFiles": []
+    },
+    "absl_crc32c::@971c8609f7402d63b90a": {
+      "artifactName": "absl_crc32c",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/crc/libabsl_crc32c.a",
+      "runtimeFiles": []
+    },
+    "absl_civil_time::@fd94da96f06d6628b0bc": {
+      "artifactName": "absl_civil_time",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/time/libabsl_civil_time.a",
+      "runtimeFiles": []
+    },
+    "absl_log_internal_proto::@8d49a56ccdcdaaddccaf": {
+      "artifactName": "absl_log_internal_proto",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/log/libabsl_log_internal_proto.a",
+      "runtimeFiles": []
+    },
+    "NightlyStart::@aa614714706b1c9b6a67": {
+      "artifactName": "NightlyStart",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_tracing_internal::@bcca1fbf62fd7584c184": {
+      "artifactName": "absl_tracing_internal",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/base/libabsl_tracing_internal.a",
+      "runtimeFiles": []
+    },
+    "absl_statusor::@f99ddacc17ed3b643b27": {
+      "artifactName": "absl_statusor",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/status/libabsl_statusor.a",
+      "runtimeFiles": []
+    },
+    "absl_hashtable_profiler::@659fdaaf291b67f054e9": {
+      "artifactName": "absl_hashtable_profiler",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/profiling/libabsl_hashtable_profiler.a",
+      "runtimeFiles": []
+    },
+    "absl_spinlock_wait::@bcca1fbf62fd7584c184": {
+      "artifactName": "absl_spinlock_wait",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/base/libabsl_spinlock_wait.a",
+      "runtimeFiles": []
+    },
+    "ContinuousCoverage::@aa614714706b1c9b6a67": {
+      "artifactName": "ContinuousCoverage",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_die_if_null::@8d49a56ccdcdaaddccaf": {
+      "artifactName": "absl_die_if_null",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/log/libabsl_die_if_null.a",
+      "runtimeFiles": []
+    },
+    "absl_flags_usage_internal::@509de57c6a5d1f155201": {
+      "artifactName": "absl_flags_usage_internal",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/flags/libabsl_flags_usage_internal.a",
+      "runtimeFiles": []
+    },
+    "absl_raw_logging_internal::@bcca1fbf62fd7584c184": {
+      "artifactName": "absl_raw_logging_internal",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/base/libabsl_raw_logging_internal.a",
+      "runtimeFiles": []
+    },
+    "absl_hash::@fd66912cc3feffab1673": {
+      "artifactName": "absl_hash",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/hash/libabsl_hash.a",
+      "runtimeFiles": []
+    },
+    "NightlyUpdate::@aa614714706b1c9b6a67": {
+      "artifactName": "NightlyUpdate",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_flags_commandlineflag::@509de57c6a5d1f155201": {
+      "artifactName": "absl_flags_commandlineflag",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/flags/libabsl_flags_commandlineflag.a",
+      "runtimeFiles": []
+    },
+    "ExperimentalTest::@aa614714706b1c9b6a67": {
+      "artifactName": "ExperimentalTest",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_malloc_internal::@bcca1fbf62fd7584c184": {
+      "artifactName": "absl_malloc_internal",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/base/libabsl_malloc_internal.a",
+      "runtimeFiles": []
+    },
+    "absl_string_view::@cb7a1fd89edd0c86251a": {
+      "artifactName": "absl_string_view",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/strings/libabsl_string_view.a",
+      "runtimeFiles": []
+    },
+    "absl_profile_builder::@659fdaaf291b67f054e9": {
+      "artifactName": "absl_profile_builder",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/profiling/libabsl_profile_builder.a",
+      "runtimeFiles": []
+    },
+    "ExperimentalConfigure::@aa614714706b1c9b6a67": {
+      "artifactName": "ExperimentalConfigure",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_random_seed_gen_exception::@c9688ff7f848af581c2b": {
+      "artifactName": "absl_random_seed_gen_exception",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/random/libabsl_random_seed_gen_exception.a",
+      "runtimeFiles": []
+    },
+    "absl_random_internal_randen::@c9688ff7f848af581c2b": {
+      "artifactName": "absl_random_internal_randen",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/random/libabsl_random_internal_randen.a",
+      "runtimeFiles": []
+    },
+    "absl_log_internal_format::@8d49a56ccdcdaaddccaf": {
+      "artifactName": "absl_log_internal_format",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/log/libabsl_log_internal_format.a",
+      "runtimeFiles": []
+    },
+    "absl_status::@f99ddacc17ed3b643b27": {
+      "artifactName": "absl_status",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/status/libabsl_status.a",
+      "runtimeFiles": []
+    },
+    "ExperimentalMemCheck::@aa614714706b1c9b6a67": {
+      "artifactName": "ExperimentalMemCheck",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_scoped_set_env::@bcca1fbf62fd7584c184": {
+      "artifactName": "absl_scoped_set_env",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/base/libabsl_scoped_set_env.a",
+      "runtimeFiles": []
+    },
+    "absl_hashtablez_sampler::@fce6d334468c5dcfb864": {
+      "artifactName": "absl_hashtablez_sampler",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/container/libabsl_hashtablez_sampler.a",
+      "runtimeFiles": []
+    },
+    "ExperimentalUpdate::@aa614714706b1c9b6a67": {
+      "artifactName": "ExperimentalUpdate",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_log_internal_log_sink_set::@8d49a56ccdcdaaddccaf": {
+      "artifactName": "absl_log_internal_log_sink_set",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/log/libabsl_log_internal_log_sink_set.a",
+      "runtimeFiles": []
+    },
+    "absl_vlog_config_internal::@8d49a56ccdcdaaddccaf": {
+      "artifactName": "absl_vlog_config_internal",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/log/libabsl_vlog_config_internal.a",
+      "runtimeFiles": []
+    },
+    "absl_random_internal_randen_hwaes_impl::@c9688ff7f848af581c2b": {
+      "artifactName": "absl_random_internal_randen_hwaes_impl",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/random/libabsl_random_internal_randen_hwaes_impl.a",
+      "runtimeFiles": []
+    },
+    "absl_strings::@cb7a1fd89edd0c86251a": {
+      "artifactName": "absl_strings",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/strings/libabsl_strings.a",
+      "runtimeFiles": []
+    },
+    "absl_log_internal_message::@8d49a56ccdcdaaddccaf": {
+      "artifactName": "absl_log_internal_message",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/log/libabsl_log_internal_message.a",
+      "runtimeFiles": []
+    },
+    "Experimental::@aa614714706b1c9b6a67": {
+      "artifactName": "Experimental",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_cordz_sample_token::@cb7a1fd89edd0c86251a": {
+      "artifactName": "absl_cordz_sample_token",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/strings/libabsl_cordz_sample_token.a",
+      "runtimeFiles": []
+    },
+    "absl_cordz_functions::@cb7a1fd89edd0c86251a": {
+      "artifactName": "absl_cordz_functions",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/strings/libabsl_cordz_functions.a",
+      "runtimeFiles": []
+    },
+    "absl_stacktrace::@acb0724825ae4703b708": {
+      "artifactName": "absl_stacktrace",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/debugging/libabsl_stacktrace.a",
+      "runtimeFiles": []
+    },
+    "ExperimentalBuild::@aa614714706b1c9b6a67": {
+      "artifactName": "ExperimentalBuild",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_log_internal_check_op::@8d49a56ccdcdaaddccaf": {
+      "artifactName": "absl_log_internal_check_op",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/log/libabsl_log_internal_check_op.a",
+      "runtimeFiles": []
+    },
+    "ContinuousTest::@aa614714706b1c9b6a67": {
+      "artifactName": "ContinuousTest",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_log_internal_conditions::@8d49a56ccdcdaaddccaf": {
+      "artifactName": "absl_log_internal_conditions",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/log/libabsl_log_internal_conditions.a",
+      "runtimeFiles": []
+    },
+    "ContinuousBuild::@aa614714706b1c9b6a67": {
+      "artifactName": "ContinuousBuild",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_random_internal_distribution_test_util::@c9688ff7f848af581c2b": {
+      "artifactName": "absl_random_internal_distribution_test_util",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/random/libabsl_random_internal_distribution_test_util.a",
+      "runtimeFiles": []
+    },
+    "ExperimentalSubmit::@aa614714706b1c9b6a67": {
+      "artifactName": "ExperimentalSubmit",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_log_flags::@8d49a56ccdcdaaddccaf": {
+      "artifactName": "absl_log_flags",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/log/libabsl_log_flags.a",
+      "runtimeFiles": []
+    },
+    "absl_synchronization::@92857049cdb464c9c3d6": {
+      "artifactName": "absl_synchronization",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/synchronization/libabsl_synchronization.a",
+      "runtimeFiles": []
+    },
+    "absl_demangle_internal::@acb0724825ae4703b708": {
+      "artifactName": "absl_demangle_internal",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/debugging/libabsl_demangle_internal.a",
+      "runtimeFiles": []
+    },
+    "Nightly::@aa614714706b1c9b6a67": {
+      "artifactName": "Nightly",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_log_internal_structured_proto::@8d49a56ccdcdaaddccaf": {
+      "artifactName": "absl_log_internal_structured_proto",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/log/libabsl_log_internal_structured_proto.a",
+      "runtimeFiles": []
+    },
+    "NightlyBuild::@aa614714706b1c9b6a67": {
+      "artifactName": "NightlyBuild",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_random_internal_randen_slow::@c9688ff7f848af581c2b": {
+      "artifactName": "absl_random_internal_randen_slow",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/random/libabsl_random_internal_randen_slow.a",
+      "runtimeFiles": []
+    },
+    "absl_crc_cord_state::@971c8609f7402d63b90a": {
+      "artifactName": "absl_crc_cord_state",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/crc/libabsl_crc_cord_state.a",
+      "runtimeFiles": []
+    },
+    "absl_flags_marshalling::@509de57c6a5d1f155201": {
+      "artifactName": "absl_flags_marshalling",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/flags/libabsl_flags_marshalling.a",
+      "runtimeFiles": []
+    },
+    "absl_base::@bcca1fbf62fd7584c184": {
+      "artifactName": "absl_base",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/base/libabsl_base.a",
+      "runtimeFiles": []
+    },
+    "absl_cord::@cb7a1fd89edd0c86251a": {
+      "artifactName": "absl_cord",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/strings/libabsl_cord.a",
+      "runtimeFiles": []
+    },
+    "absl_log_internal_globals::@8d49a56ccdcdaaddccaf": {
+      "artifactName": "absl_log_internal_globals",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/log/libabsl_log_internal_globals.a",
+      "runtimeFiles": []
+    },
+    "absl_str_format_internal::@cb7a1fd89edd0c86251a": {
+      "artifactName": "absl_str_format_internal",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/strings/libabsl_str_format_internal.a",
+      "runtimeFiles": []
+    },
+    "NightlyMemoryCheck::@aa614714706b1c9b6a67": {
+      "artifactName": "NightlyMemoryCheck",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_symbolize::@acb0724825ae4703b708": {
+      "artifactName": "absl_symbolize",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/debugging/libabsl_symbolize.a",
+      "runtimeFiles": []
+    },
+    "absl_decode_rust_punycode::@acb0724825ae4703b708": {
+      "artifactName": "absl_decode_rust_punycode",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/debugging/libabsl_decode_rust_punycode.a",
+      "runtimeFiles": []
+    },
+    "absl_strings_internal::@cb7a1fd89edd0c86251a": {
+      "artifactName": "absl_strings_internal",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/strings/libabsl_strings_internal.a",
+      "runtimeFiles": []
+    },
+    "absl_flags_private_handle_accessor::@509de57c6a5d1f155201": {
+      "artifactName": "absl_flags_private_handle_accessor",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/flags/libabsl_flags_private_handle_accessor.a",
+      "runtimeFiles": []
+    },
+    "absl_log_severity::@bcca1fbf62fd7584c184": {
+      "artifactName": "absl_log_severity",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/base/libabsl_log_severity.a",
+      "runtimeFiles": []
+    },
+    "absl_flags_program_name::@509de57c6a5d1f155201": {
+      "artifactName": "absl_flags_program_name",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/flags/libabsl_flags_program_name.a",
+      "runtimeFiles": []
+    },
+    "absl_debugging_internal::@acb0724825ae4703b708": {
+      "artifactName": "absl_debugging_internal",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/debugging/libabsl_debugging_internal.a",
+      "runtimeFiles": []
+    },
+    "absl_failure_signal_handler::@acb0724825ae4703b708": {
+      "artifactName": "absl_failure_signal_handler",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/debugging/libabsl_failure_signal_handler.a",
+      "runtimeFiles": []
+    },
+    "absl_log_globals::@8d49a56ccdcdaaddccaf": {
+      "artifactName": "absl_log_globals",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/log/libabsl_log_globals.a",
+      "runtimeFiles": []
+    },
+    "absl_random_internal_entropy_pool::@c9688ff7f848af581c2b": {
+      "artifactName": "absl_random_internal_entropy_pool",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/random/libabsl_random_internal_entropy_pool.a",
+      "runtimeFiles": []
+    },
+    "absl_log_internal_nullguard::@8d49a56ccdcdaaddccaf": {
+      "artifactName": "absl_log_internal_nullguard",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/log/libabsl_log_internal_nullguard.a",
+      "runtimeFiles": []
+    },
+    "absl_crc_internal::@971c8609f7402d63b90a": {
+      "artifactName": "absl_crc_internal",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/crc/libabsl_crc_internal.a",
+      "runtimeFiles": []
+    },
+    "ExperimentalCoverage::@aa614714706b1c9b6a67": {
+      "artifactName": "ExperimentalCoverage",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "absl_flags_reflection::@509de57c6a5d1f155201": {
+      "artifactName": "absl_flags_reflection",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/flags/libabsl_flags_reflection.a",
+      "runtimeFiles": []
+    },
+    "absl_log_entry::@8d49a56ccdcdaaddccaf": {
+      "artifactName": "absl_log_entry",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/log/libabsl_log_entry.a",
+      "runtimeFiles": []
+    },
+    "absl_flags_commandlineflag_internal::@509de57c6a5d1f155201": {
+      "artifactName": "absl_flags_commandlineflag_internal",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/flags/libabsl_flags_commandlineflag_internal.a",
+      "runtimeFiles": []
+    },
+    "absl_random_internal_randen_hwaes::@c9688ff7f848af581c2b": {
+      "artifactName": "absl_random_internal_randen_hwaes",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/random/libabsl_random_internal_randen_hwaes.a",
+      "runtimeFiles": []
+    },
+    "absl_exponential_biased::@659fdaaf291b67f054e9": {
+      "artifactName": "absl_exponential_biased",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/profiling/libabsl_exponential_biased.a",
+      "runtimeFiles": []
+    },
+    "absl_city::@fd66912cc3feffab1673": {
+      "artifactName": "absl_city",
+      "abi": "arm64-v8a",
+      "output": "/Users/allen/Documents/Codex/2026-08-13/bang/work/DoubaoLocalCallDemo/app/.cxx/Debug/6j6h6s3j/arm64-v8a/abseil-cpp/build/absl/hash/libabsl_city.a",
+      "runtimeFiles": []
+    }
+  }
+}

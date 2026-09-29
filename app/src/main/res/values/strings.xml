@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">本地 AI 通话 Demo</string>
+  <string name="local_call_accessibility_label">本地 AI 通话操作</string>
+  <string name="local_call_accessibility_description">允许本地语音指令在当前前台应用中滑动或点击可访问控件</string>
+</resources>
